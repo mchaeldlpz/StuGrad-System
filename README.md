@@ -1,5 +1,3 @@
-# StuGrad-System
-
 # Project Title:
 "StuGrad System"
 
