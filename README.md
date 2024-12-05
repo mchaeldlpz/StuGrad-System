@@ -31,8 +31,6 @@ grades of students with ease and no complications.
 6. Launch/Run the program.
 7. Enjoy the program.
 
-# Limitations and Future Improvements
-
 # Limitations
 - Text-based interface only.
 - Requires manual file management for records.
