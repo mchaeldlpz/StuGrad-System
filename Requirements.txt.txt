@@ -1,0 +1,7 @@
+REQUIREMENTS:
+ 
+Tools                        Version    
+======================================
+Python                    == 3.13.0
+Colorama                  == 1.0.0
+Rainbow CSV (Optional)    == 3.12.0
